@@ -1,0 +1,12 @@
+<items>
+ <item>
+   <sku>111</sku>
+   <group_id>22</group_id>
+   <price>9.5</price>
+   <categories>mens|sport</categories>
+   <in_stock>true</in_stock>
+   <name>t_shirt</name>
+   <image_url>http://dy.com/shop/111/ex.jpg</image_url>
+   <url>https://www.dy.com/shop/111.html?ch=22</url>
+ </item>
+</items>
